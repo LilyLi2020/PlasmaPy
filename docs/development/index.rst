@@ -11,6 +11,7 @@ Development Guide
    ../CODE_OF_CONDUCT
    install_dev
    code_guide
+   +workflow
    testing_guide
    doc_guide
    release_guide
